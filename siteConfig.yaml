@@ -6,7 +6,7 @@ meta:
 logo: ./images/logo.png
 enableToc: true
 oasDefinitions:
-  petstore: ./openapi/petstore.yaml
+  petstore: https://api.lab4.redocly.host/registry/org_1/org_1_api1/v2/bundle/master/6d0616aa-e607-11eb-a472-a7e218f1d2e8/openapi.yaml
   # add links to definitions in our API registry by using a fully qualified URL.
 stylesheets:
   - https://fonts.googleapis.com/css?family=Roboto:300,400,600,700
